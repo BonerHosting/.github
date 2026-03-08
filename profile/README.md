@@ -40,13 +40,13 @@ Whether you're running a small personal project or scaling something bigger, our
 BonerHosting was founded with a mission to make hosting **accessible, reliable, and simple** for everyone in 2026.
 
 Explore our services here:  
-👉 BonerHosting official site — (bigboner.fun)[https://bigboner.fun]
-👉 BonerHosting Dashboard — (dash.bigboner.fun)[https://dash.bigboner.fun]
-👉 BonerHosting Panel — (panel.bigboner.fun)[https://panel.bigboner.fun]
+- 👉 BonerHosting official site — (bigboner.fun)[https://bigboner.fun]
+- 👉 BonerHosting Dashboard — (dash.bigboner.fun)[https://dash.bigboner.fun]
+- 👉 BonerHosting Panel — (panel.bigboner.fun)[https://panel.bigboner.fun]
 
 
 ---
 
 ## 📜 License & Copyright
 
-© 2026 :contentReference[oaicite:3]{index=3} — All rights reserved.
+© 2026 BonerHosting — All rights reserved.
