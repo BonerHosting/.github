@@ -1,6 +1,6 @@
-# <img src="https://cdn.discordapp.com/icons/1459932459511845118/3ecb9523daf6e1391362685a25c17c60.webp" alt="Logo" width="42" align="left" /> BonerHosting
+# <img src="https://panel.zentrax.xyz/assets/svgs/pterodactyl.svg" alt="Logo" width="42" align="left" /> BonerHosting
 
-Welcome to the official GitHub organization of **BonerHosting**.
+Welcome to the official GitHub organization of **Zentrax Hosting**.
 
 We provide reliable **free and premium hosting solutions** designed for developers, creators, and communities.
 
